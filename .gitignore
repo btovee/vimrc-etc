@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!.vim
+!.vimrc
+!.vim/colors/
+!.vim/plugins.vim
+# ...even if they are in subdirectories
+!*/
+
+#ignore
+Documents
